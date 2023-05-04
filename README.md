@@ -5,6 +5,8 @@ This is a simple HTML-based calendar application for scheduling your workday.
 To use this application, simply open the index.html file in your preferred web browser.
 
 # Photo
+![image](https://user-images.githubusercontent.com/123891461/236226689-d5e20840-ec14-443b-81b8-ee135ae6ce38.png)
+
 
 # Languages Used
 
