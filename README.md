@@ -26,6 +26,7 @@ The application displays time blocks for each hour of the workday from 9AM to 4P
 Time blocks are color-coded to indicate past, present, or future hours. Past hours are gray, the current hour is red, and future hours are green.
 
 # Link
+https://fowlermichael.github.io/Day-Plan/
 
 # Credits
 MSU CodingBootCamp
